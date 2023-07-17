@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Ramos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gus-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="gus-pixel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gus-pixel" alt="gus-pixel" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Gus-pixel/](https://github.com/Gus-pixel/)
 
 - 📫 How to reach me **gustavo.ramos7049@gmail.com**
