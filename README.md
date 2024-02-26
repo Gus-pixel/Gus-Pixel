@@ -17,7 +17,6 @@
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&labelColor=CA4245&color=gray)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white&labelColor=00000F&color=gray)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flsat&logo=postgresql&logoColor=white&labelColor=316192&color=gray)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white&labelColor=4EA94B&color=gray)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white&labelColor=E34F26&color=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=100000&color=gray)
 <br><br>
