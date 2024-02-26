@@ -1,3 +1,4 @@
+## 📖 About
 - 🎲 Jr Developer.
 
 - 🚀 I’m currently working at [MRS Tecno](www.mrstecno.com.br).
