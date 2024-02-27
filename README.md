@@ -1,11 +1,11 @@
 ## 📖 About
 - 👨🏾‍💻  Jr Developer.
 
-- 🚀  I’m currently working at [MRS Tecno](www.mrstecno.com.br).
+- 🚀   I’m currently working at [MRS Tecno](www.mrstecno.com.br).
 
-- 📍  Frequently using **Javascript, Typescript, ReactJs, NodeJs, HTML5, CSS3.**
+- 📍   Frequently using **Javascript, Typescript, ReactJs, NodeJs, HTML5, CSS3.**
 
-- 📚  I'm learning **Swift**
+- 📚   I'm learning **Swift**
 <br>
 
 ## 🛠 Languages and Tools
