@@ -5,8 +5,9 @@
 - 👨‍🎓 Graduated as a **computer technician**.
 
 ## 🔥 My Stats:
-![Gus-Pixel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500)](https://git.io/streak-stats)
+  <br>
+  ![Gus-Pixel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact)
 
 ## 🔧 Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
