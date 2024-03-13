@@ -1,15 +1,15 @@
-# ✌️ Hello, I'm Gustavo
+### ✌️ Hello, I'm Gustavo
 - 💻 Jr Developer.
 - 👨‍💻 Currently working at [MRS Tecno](https://www.mrstecno.com.br).
 - 📖 Studying **Systems Analysis and Development** at college.
 - 👨‍🎓 Graduated as a **computer technician**.
 
-# 🔥 My Stats:
+### 🔥 My Stats:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500)](https://git.io/streak-stats)
   <br>
   ![Gus-Pixel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact)
 
-# 🔧 Languages and Tools:
+### 🔧 Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
@@ -24,4 +24,4 @@
 <br>
 <br>
   
-# 📫 Contact
+### 📫 Contact
