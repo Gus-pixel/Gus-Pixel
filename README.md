@@ -5,10 +5,12 @@
 - 👨‍🎓 Graduated as a **computer technician**.
 
 ### 🔥 My Stats:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500)](https://git.io/streak-stats)
-  <br>
-  ![Gus-Pixel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact)
 
+<div>
+  <img height="190rem" src="http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500" />
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact" />
+</div>
+ 
 ### 🔧 Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
