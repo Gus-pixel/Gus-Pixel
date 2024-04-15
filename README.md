@@ -7,7 +7,7 @@
 ### 🔥 My Stats:
 
 <div>
-  <img height="190rem" src="http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark&card_width=500" />
+  <img height="190rem" src="http://github-readme-streak-stats.herokuapp.com?user=Gus-Pixel&theme=dark" />
   <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-Pixel&theme=dark&show_icons=true&layout=compact" />
 </div>
  
