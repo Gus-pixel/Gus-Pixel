@@ -1,8 +1,7 @@
 ### ✌️ Hello, I'm Gustavo
-- 💻 Jr Developer.
-- 👨‍💻 Currently working at [MRS Tecno](https://www.mrstecno.com.br).
-- 📖 Studying **Systems Analysis and Development** at college.
-- 👨‍🎓 Graduated as a **computer technician**.
+-👨‍💻 **Junior Developer** at MRS Tecno.
+-📚 Studying **Systems Analysis and Development** at college.
+-🎓 Graduated as a **Computer Technician**.
 
 ### 🔥 My Stats:
 
