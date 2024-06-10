@@ -1,5 +1,5 @@
 ### ✌️ Hello, I'm Gustavo
-- 👨‍💻 **Junior Developer** at MRS Tecno.
+- 👨‍💻 **Junior Fullstack Developer** at MRS Tecno.
 - 📚 Studying **Systems Analysis and Development** at college.
 - 🎓 Graduated as a **Computer Technician**.
 
