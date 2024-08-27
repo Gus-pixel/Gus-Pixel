@@ -1,5 +1,5 @@
 ### ✌️ Hello, I'm Gustavo
-- 👨‍💻 **Junior Fullstack Developer** at MRS Tecno.
+- 👨‍💻 **Developer** at HST Card Technology.
 - 📚 Studying **Systems Analysis and Development** at college.
 - 🎓 Graduated as a **Computer Technician**.
 
