@@ -1,5 +1,5 @@
 ### ✌️ Hello, I'm Gustavo
-- 👨‍💻 **Developer** at HST Card Technology.
+- 👨‍💻 **Developer** at **HST Card Technology**.
 - 📚 Studying **Systems Analysis and Development** at college.
 - 🎓 Graduated as a **Computer Technician**.
 
